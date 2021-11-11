@@ -338,5 +338,7 @@ plt.title('Confusion Matrix for DNN')
 ![Matrices](https://user-images.githubusercontent.com/70437668/141252161-717d16a9-aaf8-4492-ad5c-84a4409e9003.jpg)
 
 ## Conclusion
-**According to the Accuracies on the Train Set, SVC model gains the highest score among 3 models (SVC, DecisionTree, DNN) at 0.7792; 0.7186; 0.7056 respectively. So the confusion matrix of SVC model has a better evaluation then the other 2. True Positives (TP): SVC model correctly predicts that patients do have diabetes with 132 patients, the highest of all 3 models.**
+**According to the Accuracies on the Train Set, SVC model gains the highest score among 3 models (SVC, DecisionTree, DNN) at 0.7792; 0.7186; 0.7056 respectively.** 
+
+**So the confusion matrix of SVC model has a better evaluation then the other 2. True Positives (TP): SVC model correctly predicts that patients do have diabetes with 132 patients, the highest of all 3 models.**
 
